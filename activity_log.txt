@@ -14,3 +14,4 @@ Activity at 2023-01-12T14:11:00: Refactor: simplify data transformation pipeline
 Activity at 2023-01-12T14:03:00: Refactor: simplify data transformation pipeline
 Activity at 2023-01-13T12:16:00: Refactor: simplify data transformation pipeline
 Activity at 2023-01-13T11:49:00: Test: add unit tests for edge cases
+Activity at 2023-01-13T11:14:00: Fix: resolve memory leak in inference engine
