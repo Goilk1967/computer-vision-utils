@@ -133,3 +133,4 @@ Activity at 2023-04-06T19:20:00: Chore: update dependencies and build scripts
 Activity at 2023-04-06T09:36:00: Chore: update dependencies and build scripts
 Activity at 2023-04-06T18:13:00: Chore: update dependencies and build scripts
 Activity at 2023-04-07T17:45:00: Chore: update dependencies and build scripts
+Activity at 2023-04-07T11:43:00: Fix: resolve memory leak in inference engine
