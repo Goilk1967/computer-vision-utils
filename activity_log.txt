@@ -137,3 +137,4 @@ Activity at 2023-04-07T11:43:00: Fix: resolve memory leak in inference engine
 Activity at 2023-04-07T21:33:00: Refactor: simplify data transformation pipeline
 Activity at 2023-04-07T09:34:00: Refactor: simplify data transformation pipeline
 Activity at 2023-04-07T10:18:00: Docs: update API documentation and examples
+Activity at 2023-04-10T14:26:00: Fix: resolve memory leak in inference engine
