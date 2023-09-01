@@ -1,0 +1,1 @@
+Fixed Activity at 2023-09-01T16:51:00: Refine: inference logic for edge devices
