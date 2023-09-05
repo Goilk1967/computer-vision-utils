@@ -4,3 +4,4 @@ Fixed Activity at 2023-09-01T09:50:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-09-04T13:35:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-04T17:22:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-04T16:36:00: Optimize: data loading strategy
+Fixed Activity at 2023-09-05T19:30:00: Refine: inference logic for edge devices
