@@ -37,3 +37,4 @@ Fixed Activity at 2023-09-08T12:33:00: Feature: add support for distributed proc
 Fixed Activity at 2023-09-08T15:55:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-11T17:18:00: Improve: logging and monitoring system
 Fixed Activity at 2023-09-11T19:56:00: Style: improve code readability and formatting
+Fixed Activity at 2023-09-11T12:27:00: Chore: update dependencies and build scripts
