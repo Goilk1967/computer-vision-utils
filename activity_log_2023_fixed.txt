@@ -182,3 +182,4 @@ Fixed Activity at 2023-10-24T11:23:00: Optimize: data loading strategy
 Fixed Activity at 2023-10-24T13:59:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-10-24T11:52:00: Improve: logging and monitoring system
 Fixed Activity at 2023-10-24T09:42:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-10-24T20:59:00: Test: add unit tests for edge cases
