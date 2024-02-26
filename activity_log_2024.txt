@@ -90,3 +90,4 @@ Activity at 2024-02-22T21:09:00: Fix: resolve memory leak in inference engine
 Activity at 2024-02-22T15:40:00: Fix: resolve memory leak in inference engine
 Activity at 2024-02-23T10:20:00: Fix: resolve memory leak in inference engine
 Activity at 2024-02-23T10:43:00: Refactor: optimize performance in core module
+Activity at 2024-02-26T12:35:00: Fix: resolve memory leak in inference engine
