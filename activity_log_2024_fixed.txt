@@ -101,3 +101,4 @@ Fixed Activity at 2024-05-27T17:24:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-05-27T11:06:00: Style: improve code readability and formatting
 Fixed Activity at 2024-05-28T21:40:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-05-28T21:39:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-05-28T14:05:00: Fix: resolve memory leak in inference engine
