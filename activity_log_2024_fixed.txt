@@ -137,3 +137,4 @@ Fixed Activity at 2024-06-03T15:38:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-06-03T15:48:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-06-03T09:28:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-06-03T17:00:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-06-03T16:28:00: Refactor: optimize performance in core module
