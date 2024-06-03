@@ -139,3 +139,4 @@ Fixed Activity at 2024-06-03T09:28:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-06-03T17:00:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-06-03T16:28:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-06-03T09:06:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-06-03T12:54:00: Test: add unit tests for edge cases
