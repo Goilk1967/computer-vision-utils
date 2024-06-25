@@ -224,3 +224,4 @@ Fixed Activity at 2024-06-24T17:33:00: Optimize: data loading strategy
 Fixed Activity at 2024-06-24T17:38:00: Docs: update API documentation and examples
 Fixed Activity at 2024-06-24T21:01:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-06-25T16:35:00: Improve: logging and monitoring system
+Fixed Activity at 2024-06-25T16:44:00: Fix: resolve memory leak in inference engine
