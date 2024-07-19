@@ -312,3 +312,4 @@ Fixed Activity at 2024-07-19T10:03:00: Optimize: data loading strategy
 Fixed Activity at 2024-07-19T21:35:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-07-19T19:11:00: Style: improve code readability and formatting
 Fixed Activity at 2024-07-19T13:27:00: Update: internal model parameters
+Fixed Activity at 2024-07-19T09:45:00: Test: add unit tests for edge cases
