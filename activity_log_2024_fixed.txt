@@ -365,3 +365,4 @@ Fixed Activity at 2024-07-31T17:07:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-01T11:43:00: Style: improve code readability and formatting
 Fixed Activity at 2024-08-01T12:01:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-08-01T16:11:00: Optimize: data loading strategy
+Fixed Activity at 2024-08-01T19:37:00: Refactor: simplify data transformation pipeline
