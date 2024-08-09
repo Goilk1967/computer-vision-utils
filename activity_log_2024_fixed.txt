@@ -398,3 +398,4 @@ Fixed Activity at 2024-08-08T18:32:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-08-08T19:10:00: Update: internal model parameters
 Fixed Activity at 2024-08-09T17:59:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-08-09T18:40:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-08-09T17:12:00: Test: add unit tests for edge cases
