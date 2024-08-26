@@ -440,3 +440,4 @@ Fixed Activity at 2024-08-23T10:33:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-08-23T09:24:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-08-26T09:38:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-26T14:18:00: Docs: update API documentation and examples
+Fixed Activity at 2024-08-26T19:34:00: Refactor: optimize performance in core module
