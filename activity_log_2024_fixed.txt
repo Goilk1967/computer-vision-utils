@@ -486,3 +486,4 @@ Fixed Activity at 2024-09-09T11:15:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-09-09T18:40:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-10T09:24:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-09-10T12:26:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-09-10T12:54:00: Test: add unit tests for edge cases
