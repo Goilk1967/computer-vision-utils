@@ -484,3 +484,4 @@ Fixed Activity at 2024-09-06T17:12:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-09-06T15:58:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-09T11:15:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-09T18:40:00: Docs: update API documentation and examples
+Fixed Activity at 2024-09-10T09:24:00: Fix: resolve memory leak in inference engine
