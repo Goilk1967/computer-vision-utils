@@ -664,3 +664,4 @@ Fixed Activity at 2024-11-04T20:22:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-11-04T11:41:00: Style: improve code readability and formatting
 Fixed Activity at 2024-11-05T17:09:00: Style: improve code readability and formatting
 Fixed Activity at 2024-11-05T11:46:00: Style: improve code readability and formatting
+Fixed Activity at 2024-11-05T09:18:00: Fix: resolve memory leak in inference engine
