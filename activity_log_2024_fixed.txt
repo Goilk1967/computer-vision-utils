@@ -709,3 +709,4 @@ Fixed Activity at 2024-11-18T11:58:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-11-18T19:53:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-11-19T14:39:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-11-19T19:37:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-11-19T10:13:00: Refine: inference logic for edge devices
