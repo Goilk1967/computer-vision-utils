@@ -784,3 +784,4 @@ Fixed Activity at 2024-12-09T20:09:00: Update: internal model parameters
 Fixed Activity at 2024-12-09T12:25:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-12-09T21:20:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-12-09T18:25:00: Update: internal model parameters
+Fixed Activity at 2024-12-10T18:13:00: Docs: update API documentation and examples
