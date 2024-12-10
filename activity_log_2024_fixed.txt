@@ -782,3 +782,4 @@ Fixed Activity at 2024-12-06T10:05:00: Feature: add support for distributed proc
 Fixed Activity at 2024-12-06T20:11:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-12-09T20:09:00: Update: internal model parameters
 Fixed Activity at 2024-12-09T12:25:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-12-09T21:20:00: Test: add unit tests for edge cases
