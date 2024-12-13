@@ -793,3 +793,4 @@ Fixed Activity at 2024-12-11T20:13:00: Improve: logging and monitoring system
 Fixed Activity at 2024-12-11T13:18:00: Improve: logging and monitoring system
 Fixed Activity at 2024-12-11T11:15:00: Docs: update API documentation and examples
 Fixed Activity at 2024-12-12T21:58:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-12-12T21:40:00: Fix: resolve memory leak in inference engine
