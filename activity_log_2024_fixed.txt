@@ -840,3 +840,4 @@ Fixed Activity at 2024-12-23T17:13:00: Update: internal model parameters
 Fixed Activity at 2024-12-23T17:28:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-23T15:34:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-24T11:10:00: Update: internal model parameters
+Fixed Activity at 2024-12-24T09:55:00: Test: add unit tests for edge cases
