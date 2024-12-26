@@ -848,3 +848,4 @@ Fixed Activity at 2024-12-26T20:32:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-12-26T09:35:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-12-26T12:48:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-12-26T10:48:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-12-26T11:55:00: Refine: inference logic for edge devices
