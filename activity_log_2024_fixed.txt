@@ -866,3 +866,4 @@ Fixed Activity at 2024-12-31T16:46:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-12-31T10:13:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-12-31T16:49:00: Update: internal model parameters
 Fixed Activity at 2024-12-31T19:33:00: Docs: update API documentation and examples
+Fixed Activity at 2024-12-31T21:13:00: Update: internal model parameters
