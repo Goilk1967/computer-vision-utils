@@ -139,3 +139,4 @@ Fixed Activity at 2025-02-06T20:23:00: Update: internal model parameters
 Fixed Activity at 2025-02-07T16:43:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-02-07T18:05:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-07T15:46:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-02-10T21:21:00: Chore: update dependencies and build scripts
