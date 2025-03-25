@@ -301,3 +301,4 @@ Fixed Activity at 2025-03-24T18:47:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-03-24T13:52:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-03-24T13:22:00: Improve: logging and monitoring system
 Fixed Activity at 2025-03-24T21:24:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-03-25T16:07:00: Fix: resolve memory leak in inference engine
