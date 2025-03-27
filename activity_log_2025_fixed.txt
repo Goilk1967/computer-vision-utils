@@ -311,3 +311,4 @@ Fixed Activity at 2025-03-26T18:47:00: Update: internal model parameters
 Fixed Activity at 2025-03-26T20:22:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-03-26T17:08:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-03-27T18:11:00: Optimize: data loading strategy
+Fixed Activity at 2025-03-27T19:19:00: Test: add unit tests for edge cases
