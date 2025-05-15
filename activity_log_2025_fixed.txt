@@ -470,3 +470,4 @@ Fixed Activity at 2025-05-14T13:31:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-05-15T13:40:00: Update: internal model parameters
 Fixed Activity at 2025-05-15T12:13:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-15T14:53:00: Update: internal model parameters
+Fixed Activity at 2025-05-15T13:42:00: Fix: resolve memory leak in inference engine
