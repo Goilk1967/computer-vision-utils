@@ -543,3 +543,4 @@ Fixed Activity at 2025-06-03T11:17:00: Update: internal model parameters
 Fixed Activity at 2025-06-03T17:02:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-06-03T19:19:00: Style: improve code readability and formatting
 Fixed Activity at 2025-06-03T17:19:00: Docs: update API documentation and examples
+Fixed Activity at 2025-06-03T10:52:00: Fix: resolve memory leak in inference engine
