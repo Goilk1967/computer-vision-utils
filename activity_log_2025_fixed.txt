@@ -571,3 +571,4 @@ Fixed Activity at 2025-06-11T15:01:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-06-11T10:51:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-06-11T12:47:00: Style: improve code readability and formatting
 Fixed Activity at 2025-06-11T13:21:00: Style: improve code readability and formatting
+Fixed Activity at 2025-06-11T16:46:00: Refine: inference logic for edge devices
