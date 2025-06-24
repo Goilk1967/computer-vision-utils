@@ -604,3 +604,4 @@ Fixed Activity at 2025-06-20T10:09:00: Style: improve code readability and forma
 Fixed Activity at 2025-06-20T20:02:00: Update: internal model parameters
 Fixed Activity at 2025-06-23T21:30:00: Docs: update API documentation and examples
 Fixed Activity at 2025-06-23T10:28:00: Optimize: data loading strategy
+Fixed Activity at 2025-06-23T21:46:00: Docs: update API documentation and examples
