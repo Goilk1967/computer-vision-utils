@@ -903,3 +903,4 @@ Fixed Activity at 2025-09-15T11:32:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-09-16T16:28:00: Optimize: data loading strategy
 Fixed Activity at 2025-09-16T12:33:00: Update: internal model parameters
 Fixed Activity at 2025-09-17T19:08:00: Optimize: data loading strategy
+Fixed Activity at 2025-09-17T15:44:00: Refine: inference logic for edge devices
