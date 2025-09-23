@@ -923,3 +923,4 @@ Fixed Activity at 2025-09-23T11:38:00: Refactor: optimize performance in core mo
 Fixed Activity at 2025-09-23T12:43:00: Docs: update API documentation and examples
 Fixed Activity at 2025-09-23T13:14:00: Update: internal model parameters
 Fixed Activity at 2025-09-23T16:23:00: Docs: update API documentation and examples
+Fixed Activity at 2025-09-23T09:43:00: Optimize: data loading strategy
