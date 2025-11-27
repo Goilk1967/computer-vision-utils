@@ -1129,3 +1129,4 @@ Fixed Activity at 2025-11-25T14:51:00: Refactor: optimize performance in core mo
 Fixed Activity at 2025-11-26T20:17:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-11-26T16:39:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-11-26T14:15:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-11-27T15:28:00: Docs: update API documentation and examples
