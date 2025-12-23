@@ -1207,3 +1207,4 @@ Fixed Activity at 2025-12-19T18:08:00: Feature: add support for distributed proc
 Fixed Activity at 2025-12-22T10:59:00: Optimize: data loading strategy
 Fixed Activity at 2025-12-22T17:49:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-12-23T20:31:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-12-23T09:25:00: Refine: inference logic for edge devices
